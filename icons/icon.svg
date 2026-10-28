@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>TX Law Quick Ref</title>
+<rect width="512" height="512" rx="112" fill="#13284b"/>
+<rect x="36" y="36" width="440" height="440" rx="84" fill="none" stroke="#f2c14e" stroke-opacity=".35" stroke-width="8"/>
+<path d="M150 136h212v262l-106-58-106 58z" fill="#1e3a66" stroke="#f2c14e" stroke-width="18" stroke-linejoin="round"/>
+<text x="256" y="304" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-weight="700" font-size="190" fill="#f2c14e">§</text>
+</svg>
